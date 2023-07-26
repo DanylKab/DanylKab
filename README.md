@@ -41,19 +41,14 @@ You can be sure that for you I will:
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-## Back-end ⚙️
-![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
-![Express.Js](https://img.shields.io/badge/-Express.Js-000000?style=flat-square&logo=express&logoColor=white)
-![Node.Js](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-## Other 🧰
+## Other skills ⚙️
 ![Sentry](https://img.shields.io/badge/-Sentry-FB4226?style=flat-square&logo=sentry&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Express.Js](https://img.shields.io/badge/-Express.Js-000000?style=flat-square&logo=express&logoColor=white)
+![Node.Js](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 <div id="header" align="Left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFqa2p6NnRsdzh1dDJsaDNqd3hiMmt0dXRqeDVsMHR4ZXZydmV3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ML40hFvZTdCNgSMM5H/giphy.gif" width="100"/>
